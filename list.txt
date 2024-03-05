@@ -1,6 +1,6 @@
 ## list of websites in regex pattern  to block via adguard home 
 
-@@/.*anime.*.*/
+@@||/.*anime.*.*/
 @@/.*movie.*.*/
 @@/.*game.*.*/
 @@/.*downloadhub.*.*/
